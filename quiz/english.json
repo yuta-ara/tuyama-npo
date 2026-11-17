@@ -2,2104 +2,1004 @@
  "subject": "english",
  "questions": [
   {
-   "sentence": "I want to learn English.",
-   "ja": "私は英語を学ぶことを望んでいます。",
-   "target": [
-    "learn",
-    "english"
-   ],
    "id": 1,
-   "rating": 1000,
-   "next": [
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10
-   ]
+   "sentence": "I missed the last train.",
+   "ja": "終電に乗り遅れました。",
+   "target": [
+    "過去形"
+   ],
+   "explanation": "過去形 の表現：I missed the last train.",
+   "rating": 1000
   },
   {
-   "sentence": "We need to learn English.",
-   "ja": "私たちは英語を学ぶ必要があります。",
-   "target": [
-    "learn",
-    "english"
-   ],
    "id": 2,
-   "rating": 1000,
-   "next": [
-    1,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10
-   ]
+   "sentence": "She has never visited Japan.",
+   "ja": "彼女は一度も日本を訪れたことがありません。",
+   "target": [
+    "現在完了"
+   ],
+   "explanation": "現在完了 の表現：She has never visited Japan.",
+   "rating": 1000
   },
   {
-   "sentence": "Can you learn English?",
-   "ja": "あなたは英語を学ぶことができますか？",
-   "target": [
-    "learn",
-    "english"
-   ],
    "id": 3,
-   "rating": 1000,
-   "next": [
-    1,
-    2,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10
-   ]
+   "sentence": "Could you open the window?",
+   "ja": "窓を開けていただけますか。",
+   "target": [
+    "依頼"
+   ],
+   "explanation": "依頼 の表現：Could you open the window?",
+   "rating": 1000
   },
   {
-   "sentence": "They will learn English tomorrow.",
-   "ja": "彼らは明日英語を学ぶ予定です。",
-   "target": [
-    "learn",
-    "english"
-   ],
    "id": 4,
-   "rating": 1000,
-   "next": [
-    1,
-    2,
-    3,
-    5,
-    6,
-    7,
-    8,
-    9,
-    10
-   ]
+   "sentence": "This book belongs to my sister.",
+   "ja": "この本は姉のものです。",
+   "target": [
+    "所有"
+   ],
+   "explanation": "所有 の表現：This book belongs to my sister.",
+   "rating": 1000
   },
   {
-   "sentence": "It is important to learn English.",
-   "ja": "英語を学ぶことは重要です。",
-   "target": [
-    "learn",
-    "english"
-   ],
    "id": 5,
-   "rating": 1000,
-   "next": [
-    1,
-    2,
-    3,
-    4,
-    6,
-    7,
-    8,
-    9,
-    10
-   ]
+   "sentence": "The soup smells delicious.",
+   "ja": "そのスープはおいしそうなにおいがします。",
+   "target": [
+    "知覚"
+   ],
+   "explanation": "知覚 の表現：The soup smells delicious.",
+   "rating": 1000
   },
   {
-   "sentence": "I want to practice English.",
-   "ja": "私は英語を練習することを望んでいます。",
-   "target": [
-    "practice",
-    "english"
-   ],
    "id": 6,
-   "rating": 1000,
-   "next": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    7,
-    8,
-    9,
-    10
-   ]
+   "sentence": "We are waiting for the bus.",
+   "ja": "私たちはバスを待っています。",
+   "target": [
+    "進行形"
+   ],
+   "explanation": "進行形 の表現：We are waiting for the bus.",
+   "rating": 1000
   },
   {
-   "sentence": "We need to practice English.",
-   "ja": "私たちは英語を練習する必要があります。",
-   "target": [
-    "practice",
-    "english"
-   ],
    "id": 7,
-   "rating": 1000,
-   "next": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    8,
-    9,
-    10
-   ]
+   "sentence": "Nobody knows the answer.",
+   "ja": "誰も答えを知りません。",
+   "target": [
+    "否定"
+   ],
+   "explanation": "否定 の表現：Nobody knows the answer.",
+   "rating": 1000
   },
   {
-   "sentence": "Can you practice English?",
-   "ja": "あなたは英語を練習することができますか？",
-   "target": [
-    "practice",
-    "english"
-   ],
    "id": 8,
-   "rating": 1000,
-   "next": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    9,
-    10
-   ]
+   "sentence": "I enjoy playing chess.",
+   "ja": "私はチェスをするのが好きです。",
+   "target": [
+    "動名詞"
+   ],
+   "explanation": "動名詞 の表現：I enjoy playing chess.",
+   "rating": 1000
   },
   {
-   "sentence": "They will practice English tomorrow.",
-   "ja": "彼らは明日英語を練習する予定です。",
-   "target": [
-    "practice",
-    "english"
-   ],
    "id": 9,
-   "rating": 1000,
-   "next": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    10
-   ]
+   "sentence": "The bridge was built in 1990.",
+   "ja": "その橋は1990年に建てられました。",
+   "target": [
+    "受動態"
+   ],
+   "explanation": "受動態 の表現：The bridge was built in 1990.",
+   "rating": 1000
   },
   {
-   "sentence": "It is important to practice English.",
-   "ja": "英語を練習することは重要です。",
-   "target": [
-    "practice",
-    "english"
-   ],
    "id": 10,
-   "rating": 1000,
-   "next": [
-    1,
-    2,
-    3,
-    4,
-    5,
-    6,
-    7,
-    8,
-    9
-   ]
+   "sentence": "He speaks more slowly than me.",
+   "ja": "彼は私よりゆっくり話します。",
+   "target": [
+    "比較"
+   ],
+   "explanation": "比較 の表現：He speaks more slowly than me.",
+   "rating": 1000
   },
   {
-   "sentence": "I want to improve your skills.",
-   "ja": "私は技能を改善することを望んでいます。",
-   "target": [
-    "improve",
-    "skills"
-   ],
    "id": 11,
-   "rating": 1000,
-   "next": [
-    12,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18,
-    19,
-    20
-   ]
+   "sentence": "My father used to smoke.",
+   "ja": "父は以前たばこを吸っていました。",
+   "target": [
+    "過去の習慣"
+   ],
+   "explanation": "過去の習慣 の表現：My father used to smoke.",
+   "rating": 1000
   },
   {
-   "sentence": "We need to improve your skills.",
-   "ja": "私たちは技能を改善する必要があります。",
-   "target": [
-    "improve",
-    "skills"
-   ],
    "id": 12,
-   "rating": 1000,
-   "next": [
-    11,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18,
-    19,
-    20
-   ]
+   "sentence": "Please remind me to call her.",
+   "ja": "彼女に電話するよう私に念を押してください。",
+   "target": [
+    "不定詞"
+   ],
+   "explanation": "不定詞 の表現：Please remind me to call her.",
+   "rating": 1000
   },
   {
-   "sentence": "Can you improve your skills?",
-   "ja": "あなたは技能を改善することができますか？",
-   "target": [
-    "improve",
-    "skills"
-   ],
    "id": 13,
-   "rating": 1000,
-   "next": [
-    11,
-    12,
-    14,
-    15,
-    16,
-    17,
-    18,
-    19,
-    20
-   ]
+   "sentence": "The sooner we leave the better.",
+   "ja": "早く出発すればするほどよいです。",
+   "target": [
+    "比較"
+   ],
+   "explanation": "比較 の表現：The sooner we leave the better.",
+   "rating": 1000
   },
   {
-   "sentence": "They will improve your skills tomorrow.",
-   "ja": "彼らは明日技能を改善する予定です。",
-   "target": [
-    "improve",
-    "skills"
-   ],
    "id": 14,
-   "rating": 1000,
-   "next": [
-    11,
-    12,
-    13,
-    15,
-    16,
-    17,
-    18,
-    19,
-    20
-   ]
+   "sentence": "I wonder where he lives.",
+   "ja": "彼はどこに住んでいるのだろう。",
+   "target": [
+    "間接疑問"
+   ],
+   "explanation": "間接疑問 の表現：I wonder where he lives.",
+   "rating": 1000
   },
   {
-   "sentence": "It is important to improve your skills.",
-   "ja": "技能を改善することは重要です。",
-   "target": [
-    "improve",
-    "skills"
-   ],
    "id": 15,
-   "rating": 1000,
-   "next": [
-    11,
-    12,
-    13,
-    14,
-    16,
-    17,
-    18,
-    19,
-    20
-   ]
+   "sentence": "There is no milk left.",
+   "ja": "牛乳はもう残っていません。",
+   "target": [
+    "存在"
+   ],
+   "explanation": "存在 の表現：There is no milk left.",
+   "rating": 1000
   },
   {
-   "sentence": "I want to develop your skills.",
-   "ja": "私は技能を伸ばすことを望んでいます。",
-   "target": [
-    "develop",
-    "skills"
-   ],
    "id": 16,
-   "rating": 1000,
-   "next": [
-    11,
-    12,
-    13,
-    14,
-    15,
-    17,
-    18,
-    19,
-    20
-   ]
+   "sentence": "You must not touch this machine.",
+   "ja": "この機械に触ってはいけません。",
+   "target": [
+    "助動詞"
+   ],
+   "explanation": "助動詞 の表現：You must not touch this machine.",
+   "rating": 1000
   },
   {
-   "sentence": "We need to develop your skills.",
-   "ja": "私たちは技能を伸ばす必要があります。",
-   "target": [
-    "develop",
-    "skills"
-   ],
    "id": 17,
-   "rating": 1000,
-   "next": [
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    18,
-    19,
-    20
-   ]
+   "sentence": "She made me laugh.",
+   "ja": "彼女は私を笑わせました。",
+   "target": [
+    "使役"
+   ],
+   "explanation": "使役 の表現：She made me laugh.",
+   "rating": 1000
   },
   {
-   "sentence": "Can you develop your skills?",
-   "ja": "あなたは技能を伸ばすことができますか？",
-   "target": [
-    "develop",
-    "skills"
-   ],
    "id": 18,
-   "rating": 1000,
-   "next": [
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    17,
-    19,
-    20
-   ]
+   "sentence": "The museum closes at five.",
+   "ja": "その博物館は5時に閉館します。",
+   "target": [
+    "現在形"
+   ],
+   "explanation": "現在形 の表現：The museum closes at five.",
+   "rating": 1000
   },
   {
-   "sentence": "They will develop your skills tomorrow.",
-   "ja": "彼らは明日技能を伸ばす予定です。",
-   "target": [
-    "develop",
-    "skills"
-   ],
    "id": 19,
-   "rating": 1000,
-   "next": [
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18,
-    20
-   ]
+   "sentence": "I wish I had more time.",
+   "ja": "もっと時間があればいいのに。",
+   "target": [
+    "仮定法"
+   ],
+   "explanation": "仮定法 の表現：I wish I had more time.",
+   "rating": 1000
   },
   {
-   "sentence": "It is important to develop your skills.",
-   "ja": "技能を伸ばすことは重要です。",
-   "target": [
-    "develop",
-    "skills"
-   ],
    "id": 20,
-   "rating": 1000,
-   "next": [
-    11,
-    12,
-    13,
-    14,
-    15,
-    16,
-    17,
-    18,
-    19
-   ]
+   "sentence": "He apologized for being late.",
+   "ja": "彼は遅刻したことを謝りました。",
+   "target": [
+    "動名詞"
+   ],
+   "explanation": "動名詞 の表現：He apologized for being late.",
+   "rating": 1000
   },
   {
-   "sentence": "I want to prepare a report.",
-   "ja": "私は報告書を準備することを望んでいます。",
-   "target": [
-    "prepare",
-    "report"
-   ],
    "id": 21,
-   "rating": 1000,
-   "next": [
-    22,
-    23,
-    24,
-    25,
-    26,
-    27,
-    28,
-    29,
-    30
-   ]
+   "sentence": "The man wearing glasses is my uncle.",
+   "ja": "眼鏡をかけている男性は叔父です。",
+   "target": [
+    "分詞"
+   ],
+   "explanation": "分詞 の表現：The man wearing glasses is my uncle.",
+   "rating": 1000
   },
   {
-   "sentence": "We need to prepare a report.",
-   "ja": "私たちは報告書を準備する必要があります。",
-   "target": [
-    "prepare",
-    "report"
-   ],
    "id": 22,
-   "rating": 1000,
-   "next": [
-    21,
-    23,
-    24,
-    25,
-    26,
-    27,
-    28,
-    29,
-    30
-   ]
+   "sentence": "I have already finished my homework.",
+   "ja": "宿題はもう終えました。",
+   "target": [
+    "現在完了"
+   ],
+   "explanation": "現在完了 の表現：I have already finished my homework.",
+   "rating": 1000
   },
   {
-   "sentence": "Can you prepare a report?",
-   "ja": "あなたは報告書を準備することができますか？",
-   "target": [
-    "prepare",
-    "report"
-   ],
    "id": 23,
-   "rating": 1000,
-   "next": [
-    21,
-    22,
-    24,
-    25,
-    26,
-    27,
-    28,
-    29,
-    30
-   ]
+   "sentence": "She asked me whether I was tired.",
+   "ja": "彼女は私に疲れているか尋ねました。",
+   "target": [
+    "間接疑問"
+   ],
+   "explanation": "間接疑問 の表現：She asked me whether I was tired.",
+   "rating": 1000
   },
   {
-   "sentence": "They will prepare a report tomorrow.",
-   "ja": "彼らは明日報告書を準備する予定です。",
-   "target": [
-    "prepare",
-    "report"
-   ],
    "id": 24,
-   "rating": 1000,
-   "next": [
-    21,
-    22,
-    23,
-    25,
-    26,
-    27,
-    28,
-    29,
-    30
-   ]
+   "sentence": "We ran out of sugar.",
+   "ja": "砂糖を切らしました。",
+   "target": [
+    "熟語"
+   ],
+   "explanation": "熟語 の表現：We ran out of sugar.",
+   "rating": 1000
   },
   {
-   "sentence": "It is important to prepare a report.",
-   "ja": "報告書を準備することは重要です。",
-   "target": [
-    "prepare",
-    "report"
-   ],
    "id": 25,
-   "rating": 1000,
-   "next": [
-    21,
-    22,
-    23,
-    24,
-    26,
-    27,
-    28,
-    29,
-    30
-   ]
+   "sentence": "It takes courage to admit mistakes.",
+   "ja": "間違いを認めるには勇気が要ります。",
+   "target": [
+    "不定詞"
+   ],
+   "explanation": "不定詞 の表現：It takes courage to admit mistakes.",
+   "rating": 1000
   },
   {
-   "sentence": "I want to write a report.",
-   "ja": "私は報告書を書くことを望んでいます。",
-   "target": [
-    "write",
-    "report"
-   ],
    "id": 26,
-   "rating": 1000,
-   "next": [
-    21,
-    22,
-    23,
-    24,
-    25,
-    27,
-    28,
-    29,
-    30
-   ]
+   "sentence": "The road is covered with snow.",
+   "ja": "道路は雪で覆われています。",
+   "target": [
+    "受動態"
+   ],
+   "explanation": "受動態 の表現：The road is covered with snow.",
+   "rating": 1000
   },
   {
-   "sentence": "We need to write a report.",
-   "ja": "私たちは報告書を書く必要があります。",
-   "target": [
-    "write",
-    "report"
-   ],
    "id": 27,
-   "rating": 1000,
-   "next": [
-    21,
-    22,
-    23,
-    24,
-    25,
-    26,
-    28,
-    29,
-    30
-   ]
+   "sentence": "Neither answer is correct.",
+   "ja": "どちらの答えも正しくありません。",
+   "target": [
+    "否定"
+   ],
+   "explanation": "否定 の表現：Neither answer is correct.",
+   "rating": 1000
   },
   {
-   "sentence": "Can you write a report?",
-   "ja": "あなたは報告書を書くことができますか？",
-   "target": [
-    "write",
-    "report"
-   ],
    "id": 28,
-   "rating": 1000,
-   "next": [
-    21,
-    22,
-    23,
-    24,
-    25,
-    26,
-    27,
-    29,
-    30
-   ]
+   "sentence": "I prefer tea to coffee.",
+   "ja": "コーヒーより紅茶が好きです。",
+   "target": [
+    "比較"
+   ],
+   "explanation": "比較 の表現：I prefer tea to coffee.",
+   "rating": 1000
   },
   {
-   "sentence": "They will write a report tomorrow.",
-   "ja": "彼らは明日報告書を書く予定です。",
-   "target": [
-    "write",
-    "report"
-   ],
    "id": 29,
-   "rating": 1000,
-   "next": [
-    21,
-    22,
-    23,
-    24,
-    25,
-    26,
-    27,
-    28,
-    30
-   ]
+   "sentence": "He is looking forward to meeting you.",
+   "ja": "彼はあなたに会うのを楽しみにしています。",
+   "target": [
+    "動名詞"
+   ],
+   "explanation": "動名詞 の表現：He is looking forward to meeting you.",
+   "rating": 1000
   },
   {
-   "sentence": "It is important to write a report.",
-   "ja": "報告書を書くことは重要です。",
-   "target": [
-    "write",
-    "report"
-   ],
    "id": 30,
-   "rating": 1000,
-   "next": [
-    21,
-    22,
-    23,
-    24,
-    25,
-    26,
-    27,
-    28,
-    29
-   ]
+   "sentence": "The dog followed us home.",
+   "ja": "犬は私たちについて家まで来ました。",
+   "target": [
+    "過去形"
+   ],
+   "explanation": "過去形 の表現：The dog followed us home.",
+   "rating": 1000
   },
   {
-   "sentence": "I want to read a book.",
-   "ja": "私は本を読むことを望んでいます。",
-   "target": [
-    "read",
-    "book"
-   ],
    "id": 31,
-   "rating": 1000,
-   "next": [
-    32,
-    33,
-    34,
-    35,
-    36,
-    37,
-    38,
-    39,
-    40
-   ]
+   "sentence": "She seems to understand the problem.",
+   "ja": "彼女は問題を理解しているようです。",
+   "target": [
+    "不定詞"
+   ],
+   "explanation": "不定詞 の表現：She seems to understand the problem.",
+   "rating": 1000
   },
   {
-   "sentence": "We need to read a book.",
-   "ja": "私たちは本を読む必要があります。",
-   "target": [
-    "read",
-    "book"
-   ],
    "id": 32,
-   "rating": 1000,
-   "next": [
-    31,
-    33,
-    34,
-    35,
-    36,
-    37,
-    38,
-    39,
-    40
-   ]
+   "sentence": "I cannot afford a new car.",
+   "ja": "新車を買う余裕がありません。",
+   "target": [
+    "熟語"
+   ],
+   "explanation": "熟語 の表現：I cannot afford a new car.",
+   "rating": 1000
   },
   {
-   "sentence": "Can you read a book?",
-   "ja": "あなたは本を読むことができますか？",
-   "target": [
-    "read",
-    "book"
-   ],
    "id": 33,
-   "rating": 1000,
-   "next": [
-    31,
-    32,
-    34,
-    35,
-    36,
-    37,
-    38,
-    39,
-    40
-   ]
+   "sentence": "What makes you think so?",
+   "ja": "なぜそう思うのですか。",
+   "target": [
+    "疑問"
+   ],
+   "explanation": "疑問 の表現：What makes you think so?",
+   "rating": 1000
   },
   {
-   "sentence": "They will read a book tomorrow.",
-   "ja": "彼らは明日本を読む予定です。",
-   "target": [
-    "read",
-    "book"
-   ],
    "id": 34,
-   "rating": 1000,
-   "next": [
-    31,
-    32,
-    33,
-    35,
-    36,
-    37,
-    38,
-    39,
-    40
-   ]
+   "sentence": "The computer suddenly stopped working.",
+   "ja": "コンピューターが突然動かなくなりました。",
+   "target": [
+    "動名詞"
+   ],
+   "explanation": "動名詞 の表現：The computer suddenly stopped working.",
+   "rating": 1000
   },
   {
-   "sentence": "It is important to read a book.",
-   "ja": "本を読むことは重要です。",
-   "target": [
-    "read",
-    "book"
-   ],
    "id": 35,
-   "rating": 1000,
-   "next": [
-    31,
-    32,
-    33,
-    34,
-    36,
-    37,
-    38,
-    39,
-    40
-   ]
+   "sentence": "He had left before I arrived.",
+   "ja": "私が到着する前に彼は出発していました。",
+   "target": [
+    "過去完了"
+   ],
+   "explanation": "過去完了 の表現：He had left before I arrived.",
+   "rating": 1000
   },
   {
-   "sentence": "I want to choose a book.",
-   "ja": "私は本を選ぶことを望んでいます。",
-   "target": [
-    "choose",
-    "book"
-   ],
    "id": 36,
-   "rating": 1000,
-   "next": [
-    31,
-    32,
-    33,
-    34,
-    35,
-    37,
-    38,
-    39,
-    40
-   ]
+   "sentence": "This is the house where I grew up.",
+   "ja": "ここは私が育った家です。",
+   "target": [
+    "関係詞"
+   ],
+   "explanation": "関係詞 の表現：This is the house where I grew up.",
+   "rating": 1000
   },
   {
-   "sentence": "We need to choose a book.",
-   "ja": "私たちは本を選ぶ必要があります。",
-   "target": [
-    "choose",
-    "book"
-   ],
    "id": 37,
-   "rating": 1000,
-   "next": [
-    31,
-    32,
-    33,
-    34,
-    35,
-    36,
-    38,
-    39,
-    40
-   ]
+   "sentence": "I will let you know tomorrow.",
+   "ja": "明日あなたに知らせます。",
+   "target": [
+    "使役"
+   ],
+   "explanation": "使役 の表現：I will let you know tomorrow.",
+   "rating": 1000
   },
   {
-   "sentence": "Can you choose a book?",
-   "ja": "あなたは本を選ぶことができますか？",
-   "target": [
-    "choose",
-    "book"
-   ],
    "id": 38,
-   "rating": 1000,
-   "next": [
-    31,
-    32,
-    33,
-    34,
-    35,
-    36,
-    37,
-    39,
-    40
-   ]
+   "sentence": "She is proud of her son.",
+   "ja": "彼女は息子を誇りに思います。",
+   "target": [
+    "形容詞"
+   ],
+   "explanation": "形容詞 の表現：She is proud of her son.",
+   "rating": 1000
   },
   {
-   "sentence": "They will choose a book tomorrow.",
-   "ja": "彼らは明日本を選ぶ予定です。",
-   "target": [
-    "choose",
-    "book"
-   ],
    "id": 39,
-   "rating": 1000,
-   "next": [
-    31,
-    32,
-    33,
-    34,
-    35,
-    36,
-    37,
-    38,
-    40
-   ]
+   "sentence": "Do you mind if I sit here?",
+   "ja": "ここに座っても構いませんか。",
+   "target": [
+    "依頼"
+   ],
+   "explanation": "依頼 の表現：Do you mind if I sit here?",
+   "rating": 1000
   },
   {
-   "sentence": "It is important to choose a book.",
-   "ja": "本を選ぶことは重要です。",
-   "target": [
-    "choose",
-    "book"
-   ],
    "id": 40,
-   "rating": 1000,
-   "next": [
-    31,
-    32,
-    33,
-    34,
-    35,
-    36,
-    37,
-    38,
-    39
-   ]
+   "sentence": "The weather turned cold overnight.",
+   "ja": "一晩で寒くなりました。",
+   "target": [
+    "知覚"
+   ],
+   "explanation": "知覚 の表現：The weather turned cold overnight.",
+   "rating": 1000
   },
   {
-   "sentence": "I want to solve a problem.",
-   "ja": "私は問題を解くことを望んでいます。",
-   "target": [
-    "solve",
-    "problem"
-   ],
    "id": 41,
-   "rating": 1000,
-   "next": [
-    42,
-    43,
-    44,
-    45,
-    46,
-    47,
-    48,
-    49,
-    50
-   ]
+   "sentence": "He might have forgotten our promise.",
+   "ja": "彼は約束を忘れたのかもしれません。",
+   "target": [
+    "助動詞"
+   ],
+   "explanation": "助動詞 の表現：He might have forgotten our promise.",
+   "rating": 1000
   },
   {
-   "sentence": "We need to solve a problem.",
-   "ja": "私たちは問題を解く必要があります。",
-   "target": [
-    "solve",
-    "problem"
-   ],
    "id": 42,
-   "rating": 1000,
-   "next": [
-    41,
-    43,
-    44,
-    45,
-    46,
-    47,
-    48,
-    49,
-    50
-   ]
+   "sentence": "I avoid eating too much salt.",
+   "ja": "塩分を取りすぎないようにしています。",
+   "target": [
+    "動名詞"
+   ],
+   "explanation": "動名詞 の表現：I avoid eating too much salt.",
+   "rating": 1000
   },
   {
-   "sentence": "Can you solve a problem?",
-   "ja": "あなたは問題を解くことができますか？",
-   "target": [
-    "solve",
-    "problem"
-   ],
    "id": 43,
-   "rating": 1000,
-   "next": [
-    41,
-    42,
-    44,
-    45,
-    46,
-    47,
-    48,
-    49,
-    50
-   ]
+   "sentence": "The meeting has been canceled.",
+   "ja": "会議は中止になりました。",
+   "target": [
+    "受動態"
+   ],
+   "explanation": "受動態 の表現：The meeting has been canceled.",
+   "rating": 1000
   },
   {
-   "sentence": "They will solve a problem tomorrow.",
-   "ja": "彼らは明日問題を解く予定です。",
-   "target": [
-    "solve",
-    "problem"
-   ],
    "id": 44,
-   "rating": 1000,
-   "next": [
-    41,
-    42,
-    43,
-    45,
-    46,
-    47,
-    48,
-    49,
-    50
-   ]
+   "sentence": "She bought a gift for her mother.",
+   "ja": "彼女は母親に贈り物を買いました。",
+   "target": [
+    "過去形"
+   ],
+   "explanation": "過去形 の表現：She bought a gift for her mother.",
+   "rating": 1000
   },
   {
-   "sentence": "It is important to solve a problem.",
-   "ja": "問題を解くことは重要です。",
-   "target": [
-    "solve",
-    "problem"
-   ],
    "id": 45,
-   "rating": 1000,
-   "next": [
-    41,
-    42,
-    43,
-    44,
-    46,
-    47,
-    48,
-    49,
-    50
-   ]
+   "sentence": "How long have you lived here?",
+   "ja": "ここにどのくらい住んでいますか。",
+   "target": [
+    "現在完了"
+   ],
+   "explanation": "現在完了 の表現：How long have you lived here?",
+   "rating": 1000
   },
   {
-   "sentence": "I want to explain a problem.",
-   "ja": "私は問題を説明することを望んでいます。",
-   "target": [
-    "explain",
-    "problem"
-   ],
    "id": 46,
-   "rating": 1000,
-   "next": [
-    41,
-    42,
-    43,
-    44,
-    45,
-    47,
-    48,
-    49,
-    50
-   ]
+   "sentence": "The question is too difficult to answer.",
+   "ja": "その質問は難しすぎて答えられません。",
+   "target": [
+    "不定詞"
+   ],
+   "explanation": "不定詞 の表現：The question is too difficult to answer.",
+   "rating": 1000
   },
   {
-   "sentence": "We need to explain a problem.",
-   "ja": "私たちは問題を説明する必要があります。",
-   "target": [
-    "explain",
-    "problem"
-   ],
    "id": 47,
-   "rating": 1000,
-   "next": [
-    41,
-    42,
-    43,
-    44,
-    45,
-    46,
-    48,
-    49,
-    50
-   ]
+   "sentence": "He is not as tall as his brother.",
+   "ja": "彼は兄ほど背が高くありません。",
+   "target": [
+    "比較"
+   ],
+   "explanation": "比較 の表現：He is not as tall as his brother.",
+   "rating": 1000
   },
   {
-   "sentence": "Can you explain a problem?",
-   "ja": "あなたは問題を説明することができますか？",
-   "target": [
-    "explain",
-    "problem"
-   ],
    "id": 48,
-   "rating": 1000,
-   "next": [
-    41,
-    42,
-    43,
-    44,
-    45,
-    46,
-    47,
-    49,
-    50
-   ]
+   "sentence": "I heard someone knock on the door.",
+   "ja": "誰かがドアをノックするのを聞きました。",
+   "target": [
+    "知覚"
+   ],
+   "explanation": "知覚 の表現：I heard someone knock on the door.",
+   "rating": 1000
   },
   {
-   "sentence": "They will explain a problem tomorrow.",
-   "ja": "彼らは明日問題を説明する予定です。",
-   "target": [
-    "explain",
-    "problem"
-   ],
    "id": 49,
-   "rating": 1000,
-   "next": [
-    41,
-    42,
-    43,
-    44,
-    45,
-    46,
-    47,
-    48,
-    50
-   ]
+   "sentence": "Unless it rains we will go hiking.",
+   "ja": "雨が降らなければハイキングに行きます。",
+   "target": [
+    "条件"
+   ],
+   "explanation": "条件 の表現：Unless it rains we will go hiking.",
+   "rating": 1000
   },
   {
-   "sentence": "It is important to explain a problem.",
-   "ja": "問題を説明することは重要です。",
-   "target": [
-    "explain",
-    "problem"
-   ],
    "id": 50,
-   "rating": 1000,
-   "next": [
-    41,
-    42,
-    43,
-    44,
-    45,
-    46,
-    47,
-    48,
-    49
-   ]
+   "sentence": "She refused to accept the offer.",
+   "ja": "彼女は申し出を受けることを拒みました。",
+   "target": [
+    "不定詞"
+   ],
+   "explanation": "不定詞 の表現：She refused to accept the offer.",
+   "rating": 1000
   },
   {
-   "sentence": "I want to create a plan.",
-   "ja": "私は計画を作ることを望んでいます。",
-   "target": [
-    "create",
-    "plan"
-   ],
    "id": 51,
-   "rating": 1000,
-   "next": [
-    52,
-    53,
-    54,
-    55,
-    56,
-    57,
-    58,
-    59,
-    60
-   ]
+   "sentence": "The children are excited about the trip.",
+   "ja": "子どもたちは旅行にわくわくしています。",
+   "target": [
+    "形容詞"
+   ],
+   "explanation": "形容詞 の表現：The children are excited about the trip.",
+   "rating": 1000
   },
   {
-   "sentence": "We need to create a plan.",
-   "ja": "私たちは計画を作る必要があります。",
-   "target": [
-    "create",
-    "plan"
-   ],
    "id": 52,
-   "rating": 1000,
-   "next": [
-    51,
-    53,
-    54,
-    55,
-    56,
-    57,
-    58,
-    59,
-    60
-   ]
+   "sentence": "I forgot to lock the door.",
+   "ja": "ドアに鍵をかけ忘れました。",
+   "target": [
+    "不定詞"
+   ],
+   "explanation": "不定詞 の表現：I forgot to lock the door.",
+   "rating": 1000
   },
   {
-   "sentence": "Can you create a plan?",
-   "ja": "あなたは計画を作ることができますか？",
-   "target": [
-    "create",
-    "plan"
-   ],
    "id": 53,
-   "rating": 1000,
-   "next": [
-    51,
-    52,
-    54,
-    55,
-    56,
-    57,
-    58,
-    59,
-    60
-   ]
+   "sentence": "He promised not to tell anyone.",
+   "ja": "彼は誰にも言わないと約束しました。",
+   "target": [
+    "否定"
+   ],
+   "explanation": "否定 の表現：He promised not to tell anyone.",
+   "rating": 1000
   },
   {
-   "sentence": "They will create a plan tomorrow.",
-   "ja": "彼らは明日計画を作る予定です。",
-   "target": [
-    "create",
-    "plan"
-   ],
    "id": 54,
-   "rating": 1000,
-   "next": [
-    51,
-    52,
-    53,
-    55,
-    56,
-    57,
-    58,
-    59,
-    60
-   ]
+   "sentence": "The river flows through the city.",
+   "ja": "その川は街を流れています。",
+   "target": [
+    "現在形"
+   ],
+   "explanation": "現在形 の表現：The river flows through the city.",
+   "rating": 1000
   },
   {
-   "sentence": "It is important to create a plan.",
-   "ja": "計画を作ることは重要です。",
-   "target": [
-    "create",
-    "plan"
-   ],
    "id": 55,
-   "rating": 1000,
-   "next": [
-    51,
-    52,
-    53,
-    54,
-    56,
-    57,
-    58,
-    59,
-    60
-   ]
+   "sentence": "You should have told me earlier.",
+   "ja": "もっと早く私に言うべきでした。",
+   "target": [
+    "助動詞"
+   ],
+   "explanation": "助動詞 の表現：You should have told me earlier.",
+   "rating": 1000
   },
   {
-   "sentence": "I want to share a plan.",
-   "ja": "私は計画を共有することを望んでいます。",
-   "target": [
-    "share",
-    "plan"
-   ],
    "id": 56,
-   "rating": 1000,
-   "next": [
-    51,
-    52,
-    53,
-    54,
-    55,
-    57,
-    58,
-    59,
-    60
-   ]
+   "sentence": "She has difficulty understanding the instructions.",
+   "ja": "彼女は説明を理解するのに苦労しています。",
+   "target": [
+    "動名詞"
+   ],
+   "explanation": "動名詞 の表現：She has difficulty understanding the instructions.",
+   "rating": 1000
   },
   {
-   "sentence": "We need to share a plan.",
-   "ja": "私たちは計画を共有する必要があります。",
-   "target": [
-    "share",
-    "plan"
-   ],
    "id": 57,
-   "rating": 1000,
-   "next": [
-    51,
-    52,
-    53,
-    54,
-    55,
-    56,
-    58,
-    59,
-    60
-   ]
+   "sentence": "I am used to getting up early.",
+   "ja": "早起きに慣れています。",
+   "target": [
+    "熟語"
+   ],
+   "explanation": "熟語 の表現：I am used to getting up early.",
+   "rating": 1000
   },
   {
-   "sentence": "Can you share a plan?",
-   "ja": "あなたは計画を共有することができますか？",
-   "target": [
-    "share",
-    "plan"
-   ],
    "id": 58,
-   "rating": 1000,
-   "next": [
-    51,
-    52,
-    53,
-    54,
-    55,
-    56,
-    57,
-    59,
-    60
-   ]
+   "sentence": "The letter was written in French.",
+   "ja": "手紙はフランス語で書かれていました。",
+   "target": [
+    "受動態"
+   ],
+   "explanation": "受動態 の表現：The letter was written in French.",
+   "rating": 1000
   },
   {
-   "sentence": "They will share a plan tomorrow.",
-   "ja": "彼らは明日計画を共有する予定です。",
-   "target": [
-    "share",
-    "plan"
-   ],
    "id": 59,
-   "rating": 1000,
-   "next": [
-    51,
-    52,
-    53,
-    54,
-    55,
-    56,
-    57,
-    58,
-    60
-   ]
+   "sentence": "He asked what I wanted.",
+   "ja": "彼は私が何を欲しいか尋ねました。",
+   "target": [
+    "間接疑問"
+   ],
+   "explanation": "間接疑問 の表現：He asked what I wanted.",
+   "rating": 1000
   },
   {
-   "sentence": "It is important to share a plan.",
-   "ja": "計画を共有することは重要です。",
-   "target": [
-    "share",
-    "plan"
-   ],
    "id": 60,
-   "rating": 1000,
-   "next": [
-    51,
-    52,
-    53,
-    54,
-    55,
-    56,
-    57,
-    58,
-    59
-   ]
+   "sentence": "It is likely to rain tonight.",
+   "ja": "今夜は雨が降りそうです。",
+   "target": [
+    "不定詞"
+   ],
+   "explanation": "不定詞 の表現：It is likely to rain tonight.",
+   "rating": 1000
   },
   {
-   "sentence": "I want to protect the environment.",
-   "ja": "私は環境を守ることを望んでいます。",
-   "target": [
-    "protect",
-    "environment"
-   ],
    "id": 61,
-   "rating": 1000,
-   "next": [
-    62,
-    63,
-    64,
-    65,
-    66,
-    67,
-    68,
-    69,
-    70
-   ]
+   "sentence": "I would rather stay at home.",
+   "ja": "むしろ家にいたいです。",
+   "target": [
+    "助動詞"
+   ],
+   "explanation": "助動詞 の表現：I would rather stay at home.",
+   "rating": 1000
   },
   {
-   "sentence": "We need to protect the environment.",
-   "ja": "私たちは環境を守る必要があります。",
-   "target": [
-    "protect",
-    "environment"
-   ],
    "id": 62,
-   "rating": 1000,
-   "next": [
-    61,
-    63,
-    64,
-    65,
-    66,
-    67,
-    68,
-    69,
-    70
-   ]
+   "sentence": "She found the movie boring.",
+   "ja": "彼女はその映画を退屈だと感じました。",
+   "target": [
+    "補語"
+   ],
+   "explanation": "補語 の表現：She found the movie boring.",
+   "rating": 1000
   },
   {
-   "sentence": "Can you protect the environment?",
-   "ja": "あなたは環境を守ることができますか？",
-   "target": [
-    "protect",
-    "environment"
-   ],
    "id": 63,
-   "rating": 1000,
-   "next": [
-    61,
-    62,
-    64,
-    65,
-    66,
-    67,
-    68,
-    69,
-    70
-   ]
+   "sentence": "The more you read the more you learn.",
+   "ja": "読めば読むほど学びます。",
+   "target": [
+    "比較"
+   ],
+   "explanation": "比較 の表現：The more you read the more you learn.",
+   "rating": 1000
   },
   {
-   "sentence": "They will protect the environment tomorrow.",
-   "ja": "彼らは明日環境を守る予定です。",
-   "target": [
-    "protect",
-    "environment"
-   ],
    "id": 64,
-   "rating": 1000,
-   "next": [
-    61,
-    62,
-    63,
-    65,
-    66,
-    67,
-    68,
-    69,
-    70
-   ]
+   "sentence": "He managed to repair the bicycle.",
+   "ja": "彼は何とか自転車を修理しました。",
+   "target": [
+    "不定詞"
+   ],
+   "explanation": "不定詞 の表現：He managed to repair the bicycle.",
+   "rating": 1000
   },
   {
-   "sentence": "It is important to protect the environment.",
-   "ja": "環境を守ることは重要です。",
-   "target": [
-    "protect",
-    "environment"
-   ],
    "id": 65,
-   "rating": 1000,
-   "next": [
-    61,
-    62,
-    63,
-    64,
-    66,
-    67,
-    68,
-    69,
-    70
-   ]
+   "sentence": "I have lost my keys.",
+   "ja": "鍵をなくしてしまいました。",
+   "target": [
+    "現在完了"
+   ],
+   "explanation": "現在完了 の表現：I have lost my keys.",
+   "rating": 1000
   },
   {
-   "sentence": "I want to study the environment.",
-   "ja": "私は環境を研究することを望んでいます。",
-   "target": [
-    "study",
-    "environment"
-   ],
    "id": 66,
-   "rating": 1000,
-   "next": [
-    61,
-    62,
-    63,
-    64,
-    65,
-    67,
-    68,
-    69,
-    70
-   ]
+   "sentence": "The baby fell asleep quickly.",
+   "ja": "赤ちゃんはすぐに眠りにつきました。",
+   "target": [
+    "過去形"
+   ],
+   "explanation": "過去形 の表現：The baby fell asleep quickly.",
+   "rating": 1000
   },
   {
-   "sentence": "We need to study the environment.",
-   "ja": "私たちは環境を研究する必要があります。",
-   "target": [
-    "study",
-    "environment"
-   ],
    "id": 67,
-   "rating": 1000,
-   "next": [
-    61,
-    62,
-    63,
-    64,
-    65,
-    66,
-    68,
-    69,
-    70
-   ]
+   "sentence": "You can borrow whichever book you like.",
+   "ja": "好きな本をどれでも借りられます。",
+   "target": [
+    "関係詞"
+   ],
+   "explanation": "関係詞 の表現：You can borrow whichever book you like.",
+   "rating": 1000
   },
   {
-   "sentence": "Can you study the environment?",
-   "ja": "あなたは環境を研究することができますか？",
-   "target": [
-    "study",
-    "environment"
-   ],
    "id": 68,
-   "rating": 1000,
-   "next": [
-    61,
-    62,
-    63,
-    64,
-    65,
-    66,
-    67,
-    69,
-    70
-   ]
+   "sentence": "She was surprised by the news.",
+   "ja": "彼女はその知らせに驚きました。",
+   "target": [
+    "受動態"
+   ],
+   "explanation": "受動態 の表現：She was surprised by the news.",
+   "rating": 1000
   },
   {
-   "sentence": "They will study the environment tomorrow.",
-   "ja": "彼らは明日環境を研究する予定です。",
-   "target": [
-    "study",
-    "environment"
-   ],
    "id": 69,
-   "rating": 1000,
-   "next": [
-    61,
-    62,
-    63,
-    64,
-    65,
-    66,
-    67,
-    68,
-    70
-   ]
+   "sentence": "I regret saying those words.",
+   "ja": "あんな言葉を言ったことを後悔しています。",
+   "target": [
+    "動名詞"
+   ],
+   "explanation": "動名詞 の表現：I regret saying those words.",
+   "rating": 1000
   },
   {
-   "sentence": "It is important to study the environment.",
-   "ja": "環境を研究することは重要です。",
-   "target": [
-    "study",
-    "environment"
-   ],
    "id": 70,
-   "rating": 1000,
-   "next": [
-    61,
-    62,
-    63,
-    64,
-    65,
-    66,
-    67,
-    68,
-    69
-   ]
+   "sentence": "He is responsible for the project.",
+   "ja": "彼はそのプロジェクトの責任者です。",
+   "target": [
+    "形容詞"
+   ],
+   "explanation": "形容詞 の表現：He is responsible for the project.",
+   "rating": 1000
   },
   {
-   "sentence": "I want to reduce costs.",
-   "ja": "私は費用を減らすことを望んでいます。",
-   "target": [
-    "reduce",
-    "costs"
-   ],
    "id": 71,
-   "rating": 1000,
-   "next": [
-    72,
-    73,
-    74,
-    75,
-    76,
-    77,
-    78,
-    79,
-    80
-   ]
+   "sentence": "If I were you I would apologize.",
+   "ja": "私があなたなら謝ります。",
+   "target": [
+    "仮定法"
+   ],
+   "explanation": "仮定法 の表現：If I were you I would apologize.",
+   "rating": 1000
   },
   {
-   "sentence": "We need to reduce costs.",
-   "ja": "私たちは費用を減らす必要があります。",
-   "target": [
-    "reduce",
-    "costs"
-   ],
    "id": 72,
-   "rating": 1000,
-   "next": [
-    71,
-    73,
-    74,
-    75,
-    76,
-    77,
-    78,
-    79,
-    80
-   ]
+   "sentence": "The train is about to leave.",
+   "ja": "列車がまもなく出発します。",
+   "target": [
+    "熟語"
+   ],
+   "explanation": "熟語 の表現：The train is about to leave.",
+   "rating": 1000
   },
   {
-   "sentence": "Can you reduce costs?",
-   "ja": "あなたは費用を減らすことができますか？",
-   "target": [
-    "reduce",
-    "costs"
-   ],
    "id": 73,
-   "rating": 1000,
-   "next": [
-    71,
-    72,
-    74,
-    75,
-    76,
-    77,
-    78,
-    79,
-    80
-   ]
+   "sentence": "It depends on the weather.",
+   "ja": "それは天候次第です。",
+   "target": [
+    "熟語"
+   ],
+   "explanation": "熟語 の表現：It depends on the weather.",
+   "rating": 1000
   },
   {
-   "sentence": "They will reduce costs tomorrow.",
-   "ja": "彼らは明日費用を減らす予定です。",
-   "target": [
-    "reduce",
-    "costs"
-   ],
    "id": 74,
-   "rating": 1000,
-   "next": [
-    71,
-    72,
-    73,
-    75,
-    76,
-    77,
-    78,
-    79,
-    80
-   ]
+   "sentence": "She gave up trying to persuade him.",
+   "ja": "彼女は彼を説得するのを諦めました。",
+   "target": [
+    "動名詞"
+   ],
+   "explanation": "動名詞 の表現：She gave up trying to persuade him.",
+   "rating": 1000
   },
   {
-   "sentence": "It is important to reduce costs.",
-   "ja": "費用を減らすことは重要です。",
-   "target": [
-    "reduce",
-    "costs"
-   ],
    "id": 75,
-   "rating": 1000,
-   "next": [
-    71,
-    72,
-    73,
-    74,
-    76,
-    77,
-    78,
-    79,
-    80
-   ]
+   "sentence": "The cake tastes better than it looks.",
+   "ja": "そのケーキは見た目よりおいしいです。",
+   "target": [
+    "比較"
+   ],
+   "explanation": "比較 の表現：The cake tastes better than it looks.",
+   "rating": 1000
   },
   {
-   "sentence": "I want to calculate costs.",
-   "ja": "私は費用を計算することを望んでいます。",
-   "target": [
-    "calculate",
-    "costs"
-   ],
    "id": 76,
-   "rating": 1000,
-   "next": [
-    71,
-    72,
-    73,
-    74,
-    75,
-    77,
-    78,
-    79,
-    80
-   ]
+   "sentence": "I did not expect him to come.",
+   "ja": "彼が来るとは思いませんでした。",
+   "target": [
+    "不定詞"
+   ],
+   "explanation": "不定詞 の表現：I did not expect him to come.",
+   "rating": 1000
   },
   {
-   "sentence": "We need to calculate costs.",
-   "ja": "私たちは費用を計算する必要があります。",
-   "target": [
-    "calculate",
-    "costs"
-   ],
    "id": 77,
-   "rating": 1000,
-   "next": [
-    71,
-    72,
-    73,
-    74,
-    75,
-    76,
-    78,
-    79,
-    80
-   ]
+   "sentence": "We have known each other for years.",
+   "ja": "私たちは何年も前から知り合いです。",
+   "target": [
+    "現在完了"
+   ],
+   "explanation": "現在完了 の表現：We have known each other for years.",
+   "rating": 1000
   },
   {
-   "sentence": "Can you calculate costs?",
-   "ja": "あなたは費用を計算することができますか？",
-   "target": [
-    "calculate",
-    "costs"
-   ],
    "id": 78,
-   "rating": 1000,
-   "next": [
-    71,
-    72,
-    73,
-    74,
-    75,
-    76,
-    77,
-    79,
-    80
-   ]
+   "sentence": "The room needs cleaning.",
+   "ja": "その部屋は掃除が必要です。",
+   "target": [
+    "動名詞"
+   ],
+   "explanation": "動名詞 の表現：The room needs cleaning.",
+   "rating": 1000
   },
   {
-   "sentence": "They will calculate costs tomorrow.",
-   "ja": "彼らは明日費用を計算する予定です。",
-   "target": [
-    "calculate",
-    "costs"
-   ],
    "id": 79,
-   "rating": 1000,
-   "next": [
-    71,
-    72,
-    73,
-    74,
-    75,
-    76,
-    77,
-    78,
-    80
-   ]
+   "sentence": "He was born in a small village.",
+   "ja": "彼は小さな村で生まれました。",
+   "target": [
+    "受動態"
+   ],
+   "explanation": "受動態 の表現：He was born in a small village.",
+   "rating": 1000
   },
   {
-   "sentence": "It is important to calculate costs.",
-   "ja": "費用を計算することは重要です。",
-   "target": [
-    "calculate",
-    "costs"
-   ],
    "id": 80,
-   "rating": 1000,
-   "next": [
-    71,
-    72,
-    73,
-    74,
-    75,
-    76,
-    77,
-    78,
-    79
-   ]
+   "sentence": "Why did you change your mind?",
+   "ja": "なぜ気が変わったのですか。",
+   "target": [
+    "疑問"
+   ],
+   "explanation": "疑問 の表現：Why did you change your mind?",
+   "rating": 1000
   },
   {
-   "sentence": "I want to support students.",
-   "ja": "私は生徒を支援することを望んでいます。",
-   "target": [
-    "support",
-    "students"
-   ],
    "id": 81,
-   "rating": 1000,
-   "next": [
-    82,
-    83,
-    84,
-    85,
-    86,
-    87,
-    88,
-    89,
-    90
-   ]
+   "sentence": "She kept talking despite the noise.",
+   "ja": "騒音にもかかわらず彼女は話し続けました。",
+   "target": [
+    "動名詞"
+   ],
+   "explanation": "動名詞 の表現：She kept talking despite the noise.",
+   "rating": 1000
   },
   {
-   "sentence": "We need to support students.",
-   "ja": "私たちは生徒を支援する必要があります。",
-   "target": [
-    "support",
-    "students"
-   ],
    "id": 82,
-   "rating": 1000,
-   "next": [
-    81,
-    83,
-    84,
-    85,
-    86,
-    87,
-    88,
-    89,
-    90
-   ]
+   "sentence": "I will be studying at noon.",
+   "ja": "正午には勉強しているでしょう。",
+   "target": [
+    "未来進行"
+   ],
+   "explanation": "未来進行 の表現：I will be studying at noon.",
+   "rating": 1000
   },
   {
-   "sentence": "Can you support students?",
-   "ja": "あなたは生徒を支援することができますか？",
-   "target": [
-    "support",
-    "students"
-   ],
    "id": 83,
-   "rating": 1000,
-   "next": [
-    81,
-    82,
-    84,
-    85,
-    86,
-    87,
-    88,
-    89,
-    90
-   ]
+   "sentence": "The problem remains unsolved.",
+   "ja": "問題は未解決のままです。",
+   "target": [
+    "補語"
+   ],
+   "explanation": "補語 の表現：The problem remains unsolved.",
+   "rating": 1000
   },
   {
-   "sentence": "They will support students tomorrow.",
-   "ja": "彼らは明日生徒を支援する予定です。",
-   "target": [
-    "support",
-    "students"
-   ],
    "id": 84,
-   "rating": 1000,
-   "next": [
-    81,
-    82,
-    83,
-    85,
-    86,
-    87,
-    88,
-    89,
-    90
-   ]
+   "sentence": "We had better hurry.",
+   "ja": "急いだほうがよいです。",
+   "target": [
+    "助動詞"
+   ],
+   "explanation": "助動詞 の表現：We had better hurry.",
+   "rating": 1000
   },
   {
-   "sentence": "It is important to support students.",
-   "ja": "生徒を支援することは重要です。",
-   "target": [
-    "support",
-    "students"
-   ],
    "id": 85,
-   "rating": 1000,
-   "next": [
-    81,
-    82,
-    83,
-    84,
-    86,
-    87,
-    88,
-    89,
-    90
-   ]
+   "sentence": "He turned down the invitation.",
+   "ja": "彼は招待を断りました。",
+   "target": [
+    "熟語"
+   ],
+   "explanation": "熟語 の表現：He turned down the invitation.",
+   "rating": 1000
   },
   {
-   "sentence": "I want to teach students.",
-   "ja": "私は生徒を教えることを望んでいます。",
-   "target": [
-    "teach",
-    "students"
-   ],
    "id": 86,
-   "rating": 1000,
-   "next": [
-    81,
-    82,
-    83,
-    84,
-    85,
-    87,
-    88,
-    89,
-    90
-   ]
+   "sentence": "I am not sure what to do.",
+   "ja": "何をすべきかよく分かりません。",
+   "target": [
+    "間接疑問"
+   ],
+   "explanation": "間接疑問 の表現：I am not sure what to do.",
+   "rating": 1000
   },
   {
-   "sentence": "We need to teach students.",
-   "ja": "私たちは生徒を教える必要があります。",
-   "target": [
-    "teach",
-    "students"
-   ],
    "id": 87,
-   "rating": 1000,
-   "next": [
-    81,
-    82,
-    83,
-    84,
-    85,
-    86,
-    88,
-    89,
-    90
-   ]
+   "sentence": "The woman sitting there is a doctor.",
+   "ja": "そこに座っている女性は医者です。",
+   "target": [
+    "分詞"
+   ],
+   "explanation": "分詞 の表現：The woman sitting there is a doctor.",
+   "rating": 1000
   },
   {
-   "sentence": "Can you teach students?",
-   "ja": "あなたは生徒を教えることができますか？",
-   "target": [
-    "teach",
-    "students"
-   ],
    "id": 88,
-   "rating": 1000,
-   "next": [
-    81,
-    82,
-    83,
-    84,
-    85,
-    86,
-    87,
-    89,
-    90
-   ]
+   "sentence": "She has gone to the library.",
+   "ja": "彼女は図書館に行ってしまいました。",
+   "target": [
+    "現在完了"
+   ],
+   "explanation": "現在完了 の表現：She has gone to the library.",
+   "rating": 1000
   },
   {
-   "sentence": "They will teach students tomorrow.",
-   "ja": "彼らは明日生徒を教える予定です。",
-   "target": [
-    "teach",
-    "students"
-   ],
    "id": 89,
-   "rating": 1000,
-   "next": [
-    81,
-    82,
-    83,
-    84,
-    85,
-    86,
-    87,
-    88,
-    90
-   ]
+   "sentence": "I would have helped you if I had known.",
+   "ja": "知っていたならあなたを助けたのに。",
+   "target": [
+    "仮定法"
+   ],
+   "explanation": "仮定法 の表現：I would have helped you if I had known.",
+   "rating": 1000
   },
   {
-   "sentence": "It is important to teach students.",
-   "ja": "生徒を教えることは重要です。",
-   "target": [
-    "teach",
-    "students"
-   ],
    "id": 90,
-   "rating": 1000,
-   "next": [
-    81,
-    82,
-    83,
-    84,
-    85,
-    86,
-    87,
-    88,
-    89
-   ]
+   "sentence": "They arrived safe and sound.",
+   "ja": "彼らは無事に到着しました。",
+   "target": [
+    "補語"
+   ],
+   "explanation": "補語 の表現：They arrived safe and sound.",
+   "rating": 1000
   },
   {
-   "sentence": "I want to review the lesson.",
-   "ja": "私は授業内容を復習することを望んでいます。",
-   "target": [
-    "review",
-    "lesson"
-   ],
    "id": 91,
-   "rating": 1000,
-   "next": [
-    92,
-    93,
-    94,
-    95,
-    96,
-    97,
-    98,
-    99,
-    100
-   ]
+   "sentence": "He prevented me from making a mistake.",
+   "ja": "彼は私が間違えるのを防ぎました。",
+   "target": [
+    "動名詞"
+   ],
+   "explanation": "動名詞 の表現：He prevented me from making a mistake.",
+   "rating": 1000
   },
   {
-   "sentence": "We need to review the lesson.",
-   "ja": "私たちは授業内容を復習する必要があります。",
-   "target": [
-    "review",
-    "lesson"
-   ],
    "id": 92,
-   "rating": 1000,
-   "next": [
-    91,
-    93,
-    94,
-    95,
-    96,
-    97,
-    98,
-    99,
-    100
-   ]
+   "sentence": "The price includes tax.",
+   "ja": "価格には税金が含まれています。",
+   "target": [
+    "現在形"
+   ],
+   "explanation": "現在形 の表現：The price includes tax.",
+   "rating": 1000
   },
   {
-   "sentence": "Can you review the lesson?",
-   "ja": "あなたは授業内容を復習することができますか？",
-   "target": [
-    "review",
-    "lesson"
-   ],
    "id": 93,
-   "rating": 1000,
-   "next": [
-    91,
-    92,
-    94,
-    95,
-    96,
-    97,
-    98,
-    99,
-    100
-   ]
+   "sentence": "I need a place to stay.",
+   "ja": "泊まる場所が必要です。",
+   "target": [
+    "不定詞"
+   ],
+   "explanation": "不定詞 の表現：I need a place to stay.",
+   "rating": 1000
   },
   {
-   "sentence": "They will review the lesson tomorrow.",
-   "ja": "彼らは明日授業内容を復習する予定です。",
-   "target": [
-    "review",
-    "lesson"
-   ],
    "id": 94,
-   "rating": 1000,
-   "next": [
-    91,
-    92,
-    93,
-    95,
-    96,
-    97,
-    98,
-    99,
-    100
-   ]
+   "sentence": "She is believed to be honest.",
+   "ja": "彼女は正直だと信じられています。",
+   "target": [
+    "受動態"
+   ],
+   "explanation": "受動態 の表現：She is believed to be honest.",
+   "rating": 1000
   },
   {
-   "sentence": "It is important to review the lesson.",
-   "ja": "授業内容を復習することは重要です。",
-   "target": [
-    "review",
-    "lesson"
-   ],
    "id": 95,
-   "rating": 1000,
-   "next": [
-    91,
-    92,
-    93,
-    94,
-    96,
-    97,
-    98,
-    99,
-    100
-   ]
+   "sentence": "How often do you exercise?",
+   "ja": "どのくらいの頻度で運動しますか。",
+   "target": [
+    "疑問"
+   ],
+   "explanation": "疑問 の表現：How often do you exercise?",
+   "rating": 1000
   },
   {
-   "sentence": "I want to remember the lesson.",
-   "ja": "私は授業内容を覚えておくことを望んでいます。",
-   "target": [
-    "remember",
-    "lesson"
-   ],
    "id": 96,
-   "rating": 1000,
-   "next": [
-    91,
-    92,
-    93,
-    94,
-    95,
-    97,
-    98,
-    99,
-    100
-   ]
+   "sentence": "We should make the most of this opportunity.",
+   "ja": "この機会を最大限活用すべきです。",
+   "target": [
+    "熟語"
+   ],
+   "explanation": "熟語 の表現：We should make the most of this opportunity.",
+   "rating": 1000
   },
   {
-   "sentence": "We need to remember the lesson.",
-   "ja": "私たちは授業内容を覚えておく必要があります。",
-   "target": [
-    "remember",
-    "lesson"
-   ],
    "id": 97,
-   "rating": 1000,
-   "next": [
-    91,
-    92,
-    93,
-    94,
-    95,
-    96,
-    98,
-    99,
-    100
-   ]
+   "sentence": "He denied stealing the money.",
+   "ja": "彼はお金を盗んだことを否定しました。",
+   "target": [
+    "動名詞"
+   ],
+   "explanation": "動名詞 の表現：He denied stealing the money.",
+   "rating": 1000
   },
   {
-   "sentence": "Can you remember the lesson?",
-   "ja": "あなたは授業内容を覚えておくことができますか？",
-   "target": [
-    "remember",
-    "lesson"
-   ],
    "id": 98,
-   "rating": 1000,
-   "next": [
-    91,
-    92,
-    93,
-    94,
-    95,
-    96,
-    97,
-    99,
-    100
-   ]
+   "sentence": "I cannot help smiling.",
+   "ja": "思わず笑ってしまいます。",
+   "target": [
+    "熟語"
+   ],
+   "explanation": "熟語 の表現：I cannot help smiling.",
+   "rating": 1000
   },
   {
-   "sentence": "They will remember the lesson tomorrow.",
-   "ja": "彼らは明日授業内容を覚えておく予定です。",
-   "target": [
-    "remember",
-    "lesson"
-   ],
    "id": 99,
-   "rating": 1000,
-   "next": [
-    91,
-    92,
-    93,
-    94,
-    95,
-    96,
-    97,
-    98,
-    100
-   ]
+   "sentence": "The decision was harder than expected.",
+   "ja": "決断は予想以上に難しかったです。",
+   "target": [
+    "比較"
+   ],
+   "explanation": "比較 の表現：The decision was harder than expected.",
+   "rating": 1000
   },
   {
-   "sentence": "It is important to remember the lesson.",
-   "ja": "授業内容を覚えておくことは重要です。",
-   "target": [
-    "remember",
-    "lesson"
-   ],
    "id": 100,
-   "rating": 1000,
-   "next": [
-    91,
-    92,
-    93,
-    94,
-    95,
-    96,
-    97,
-    98,
-    99
-   ]
+   "sentence": "She will succeed if she keeps trying.",
+   "ja": "努力し続ければ彼女は成功するでしょう。",
+   "target": [
+    "条件"
+   ],
+   "explanation": "条件 の表現：She will succeed if she keeps trying.",
+   "rating": 1000
   }
  ]
 }
