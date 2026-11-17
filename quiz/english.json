@@ -1,0 +1,2105 @@
+{
+ "subject": "english",
+ "questions": [
+  {
+   "sentence": "I want to learn English.",
+   "ja": "私は英語を学ぶことを望んでいます。",
+   "target": [
+    "learn",
+    "english"
+   ],
+   "id": 1,
+   "rating": 1000,
+   "next": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "sentence": "We need to learn English.",
+   "ja": "私たちは英語を学ぶ必要があります。",
+   "target": [
+    "learn",
+    "english"
+   ],
+   "id": 2,
+   "rating": 1000,
+   "next": [
+    1,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "sentence": "Can you learn English?",
+   "ja": "あなたは英語を学ぶことができますか？",
+   "target": [
+    "learn",
+    "english"
+   ],
+   "id": 3,
+   "rating": 1000,
+   "next": [
+    1,
+    2,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "sentence": "They will learn English tomorrow.",
+   "ja": "彼らは明日英語を学ぶ予定です。",
+   "target": [
+    "learn",
+    "english"
+   ],
+   "id": 4,
+   "rating": 1000,
+   "next": [
+    1,
+    2,
+    3,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "sentence": "It is important to learn English.",
+   "ja": "英語を学ぶことは重要です。",
+   "target": [
+    "learn",
+    "english"
+   ],
+   "id": 5,
+   "rating": 1000,
+   "next": [
+    1,
+    2,
+    3,
+    4,
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "sentence": "I want to practice English.",
+   "ja": "私は英語を練習することを望んでいます。",
+   "target": [
+    "practice",
+    "english"
+   ],
+   "id": 6,
+   "rating": 1000,
+   "next": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "sentence": "We need to practice English.",
+   "ja": "私たちは英語を練習する必要があります。",
+   "target": [
+    "practice",
+    "english"
+   ],
+   "id": 7,
+   "rating": 1000,
+   "next": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "sentence": "Can you practice English?",
+   "ja": "あなたは英語を練習することができますか？",
+   "target": [
+    "practice",
+    "english"
+   ],
+   "id": 8,
+   "rating": 1000,
+   "next": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    9,
+    10
+   ]
+  },
+  {
+   "sentence": "They will practice English tomorrow.",
+   "ja": "彼らは明日英語を練習する予定です。",
+   "target": [
+    "practice",
+    "english"
+   ],
+   "id": 9,
+   "rating": 1000,
+   "next": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    10
+   ]
+  },
+  {
+   "sentence": "It is important to practice English.",
+   "ja": "英語を練習することは重要です。",
+   "target": [
+    "practice",
+    "english"
+   ],
+   "id": 10,
+   "rating": 1000,
+   "next": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "sentence": "I want to improve your skills.",
+   "ja": "私は技能を改善することを望んでいます。",
+   "target": [
+    "improve",
+    "skills"
+   ],
+   "id": 11,
+   "rating": 1000,
+   "next": [
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+   ]
+  },
+  {
+   "sentence": "We need to improve your skills.",
+   "ja": "私たちは技能を改善する必要があります。",
+   "target": [
+    "improve",
+    "skills"
+   ],
+   "id": 12,
+   "rating": 1000,
+   "next": [
+    11,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+   ]
+  },
+  {
+   "sentence": "Can you improve your skills?",
+   "ja": "あなたは技能を改善することができますか？",
+   "target": [
+    "improve",
+    "skills"
+   ],
+   "id": 13,
+   "rating": 1000,
+   "next": [
+    11,
+    12,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+   ]
+  },
+  {
+   "sentence": "They will improve your skills tomorrow.",
+   "ja": "彼らは明日技能を改善する予定です。",
+   "target": [
+    "improve",
+    "skills"
+   ],
+   "id": 14,
+   "rating": 1000,
+   "next": [
+    11,
+    12,
+    13,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+   ]
+  },
+  {
+   "sentence": "It is important to improve your skills.",
+   "ja": "技能を改善することは重要です。",
+   "target": [
+    "improve",
+    "skills"
+   ],
+   "id": 15,
+   "rating": 1000,
+   "next": [
+    11,
+    12,
+    13,
+    14,
+    16,
+    17,
+    18,
+    19,
+    20
+   ]
+  },
+  {
+   "sentence": "I want to develop your skills.",
+   "ja": "私は技能を伸ばすことを望んでいます。",
+   "target": [
+    "develop",
+    "skills"
+   ],
+   "id": 16,
+   "rating": 1000,
+   "next": [
+    11,
+    12,
+    13,
+    14,
+    15,
+    17,
+    18,
+    19,
+    20
+   ]
+  },
+  {
+   "sentence": "We need to develop your skills.",
+   "ja": "私たちは技能を伸ばす必要があります。",
+   "target": [
+    "develop",
+    "skills"
+   ],
+   "id": 17,
+   "rating": 1000,
+   "next": [
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    18,
+    19,
+    20
+   ]
+  },
+  {
+   "sentence": "Can you develop your skills?",
+   "ja": "あなたは技能を伸ばすことができますか？",
+   "target": [
+    "develop",
+    "skills"
+   ],
+   "id": 18,
+   "rating": 1000,
+   "next": [
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    19,
+    20
+   ]
+  },
+  {
+   "sentence": "They will develop your skills tomorrow.",
+   "ja": "彼らは明日技能を伸ばす予定です。",
+   "target": [
+    "develop",
+    "skills"
+   ],
+   "id": 19,
+   "rating": 1000,
+   "next": [
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    20
+   ]
+  },
+  {
+   "sentence": "It is important to develop your skills.",
+   "ja": "技能を伸ばすことは重要です。",
+   "target": [
+    "develop",
+    "skills"
+   ],
+   "id": 20,
+   "rating": 1000,
+   "next": [
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+   ]
+  },
+  {
+   "sentence": "I want to prepare a report.",
+   "ja": "私は報告書を準備することを望んでいます。",
+   "target": [
+    "prepare",
+    "report"
+   ],
+   "id": 21,
+   "rating": 1000,
+   "next": [
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+   ]
+  },
+  {
+   "sentence": "We need to prepare a report.",
+   "ja": "私たちは報告書を準備する必要があります。",
+   "target": [
+    "prepare",
+    "report"
+   ],
+   "id": 22,
+   "rating": 1000,
+   "next": [
+    21,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+   ]
+  },
+  {
+   "sentence": "Can you prepare a report?",
+   "ja": "あなたは報告書を準備することができますか？",
+   "target": [
+    "prepare",
+    "report"
+   ],
+   "id": 23,
+   "rating": 1000,
+   "next": [
+    21,
+    22,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+   ]
+  },
+  {
+   "sentence": "They will prepare a report tomorrow.",
+   "ja": "彼らは明日報告書を準備する予定です。",
+   "target": [
+    "prepare",
+    "report"
+   ],
+   "id": 24,
+   "rating": 1000,
+   "next": [
+    21,
+    22,
+    23,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30
+   ]
+  },
+  {
+   "sentence": "It is important to prepare a report.",
+   "ja": "報告書を準備することは重要です。",
+   "target": [
+    "prepare",
+    "report"
+   ],
+   "id": 25,
+   "rating": 1000,
+   "next": [
+    21,
+    22,
+    23,
+    24,
+    26,
+    27,
+    28,
+    29,
+    30
+   ]
+  },
+  {
+   "sentence": "I want to write a report.",
+   "ja": "私は報告書を書くことを望んでいます。",
+   "target": [
+    "write",
+    "report"
+   ],
+   "id": 26,
+   "rating": 1000,
+   "next": [
+    21,
+    22,
+    23,
+    24,
+    25,
+    27,
+    28,
+    29,
+    30
+   ]
+  },
+  {
+   "sentence": "We need to write a report.",
+   "ja": "私たちは報告書を書く必要があります。",
+   "target": [
+    "write",
+    "report"
+   ],
+   "id": 27,
+   "rating": 1000,
+   "next": [
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    28,
+    29,
+    30
+   ]
+  },
+  {
+   "sentence": "Can you write a report?",
+   "ja": "あなたは報告書を書くことができますか？",
+   "target": [
+    "write",
+    "report"
+   ],
+   "id": 28,
+   "rating": 1000,
+   "next": [
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    29,
+    30
+   ]
+  },
+  {
+   "sentence": "They will write a report tomorrow.",
+   "ja": "彼らは明日報告書を書く予定です。",
+   "target": [
+    "write",
+    "report"
+   ],
+   "id": 29,
+   "rating": 1000,
+   "next": [
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    30
+   ]
+  },
+  {
+   "sentence": "It is important to write a report.",
+   "ja": "報告書を書くことは重要です。",
+   "target": [
+    "write",
+    "report"
+   ],
+   "id": 30,
+   "rating": 1000,
+   "next": [
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+   ]
+  },
+  {
+   "sentence": "I want to read a book.",
+   "ja": "私は本を読むことを望んでいます。",
+   "target": [
+    "read",
+    "book"
+   ],
+   "id": 31,
+   "rating": 1000,
+   "next": [
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40
+   ]
+  },
+  {
+   "sentence": "We need to read a book.",
+   "ja": "私たちは本を読む必要があります。",
+   "target": [
+    "read",
+    "book"
+   ],
+   "id": 32,
+   "rating": 1000,
+   "next": [
+    31,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40
+   ]
+  },
+  {
+   "sentence": "Can you read a book?",
+   "ja": "あなたは本を読むことができますか？",
+   "target": [
+    "read",
+    "book"
+   ],
+   "id": 33,
+   "rating": 1000,
+   "next": [
+    31,
+    32,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40
+   ]
+  },
+  {
+   "sentence": "They will read a book tomorrow.",
+   "ja": "彼らは明日本を読む予定です。",
+   "target": [
+    "read",
+    "book"
+   ],
+   "id": 34,
+   "rating": 1000,
+   "next": [
+    31,
+    32,
+    33,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40
+   ]
+  },
+  {
+   "sentence": "It is important to read a book.",
+   "ja": "本を読むことは重要です。",
+   "target": [
+    "read",
+    "book"
+   ],
+   "id": 35,
+   "rating": 1000,
+   "next": [
+    31,
+    32,
+    33,
+    34,
+    36,
+    37,
+    38,
+    39,
+    40
+   ]
+  },
+  {
+   "sentence": "I want to choose a book.",
+   "ja": "私は本を選ぶことを望んでいます。",
+   "target": [
+    "choose",
+    "book"
+   ],
+   "id": 36,
+   "rating": 1000,
+   "next": [
+    31,
+    32,
+    33,
+    34,
+    35,
+    37,
+    38,
+    39,
+    40
+   ]
+  },
+  {
+   "sentence": "We need to choose a book.",
+   "ja": "私たちは本を選ぶ必要があります。",
+   "target": [
+    "choose",
+    "book"
+   ],
+   "id": 37,
+   "rating": 1000,
+   "next": [
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    38,
+    39,
+    40
+   ]
+  },
+  {
+   "sentence": "Can you choose a book?",
+   "ja": "あなたは本を選ぶことができますか？",
+   "target": [
+    "choose",
+    "book"
+   ],
+   "id": 38,
+   "rating": 1000,
+   "next": [
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    39,
+    40
+   ]
+  },
+  {
+   "sentence": "They will choose a book tomorrow.",
+   "ja": "彼らは明日本を選ぶ予定です。",
+   "target": [
+    "choose",
+    "book"
+   ],
+   "id": 39,
+   "rating": 1000,
+   "next": [
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    40
+   ]
+  },
+  {
+   "sentence": "It is important to choose a book.",
+   "ja": "本を選ぶことは重要です。",
+   "target": [
+    "choose",
+    "book"
+   ],
+   "id": 40,
+   "rating": 1000,
+   "next": [
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39
+   ]
+  },
+  {
+   "sentence": "I want to solve a problem.",
+   "ja": "私は問題を解くことを望んでいます。",
+   "target": [
+    "solve",
+    "problem"
+   ],
+   "id": 41,
+   "rating": 1000,
+   "next": [
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50
+   ]
+  },
+  {
+   "sentence": "We need to solve a problem.",
+   "ja": "私たちは問題を解く必要があります。",
+   "target": [
+    "solve",
+    "problem"
+   ],
+   "id": 42,
+   "rating": 1000,
+   "next": [
+    41,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50
+   ]
+  },
+  {
+   "sentence": "Can you solve a problem?",
+   "ja": "あなたは問題を解くことができますか？",
+   "target": [
+    "solve",
+    "problem"
+   ],
+   "id": 43,
+   "rating": 1000,
+   "next": [
+    41,
+    42,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50
+   ]
+  },
+  {
+   "sentence": "They will solve a problem tomorrow.",
+   "ja": "彼らは明日問題を解く予定です。",
+   "target": [
+    "solve",
+    "problem"
+   ],
+   "id": 44,
+   "rating": 1000,
+   "next": [
+    41,
+    42,
+    43,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50
+   ]
+  },
+  {
+   "sentence": "It is important to solve a problem.",
+   "ja": "問題を解くことは重要です。",
+   "target": [
+    "solve",
+    "problem"
+   ],
+   "id": 45,
+   "rating": 1000,
+   "next": [
+    41,
+    42,
+    43,
+    44,
+    46,
+    47,
+    48,
+    49,
+    50
+   ]
+  },
+  {
+   "sentence": "I want to explain a problem.",
+   "ja": "私は問題を説明することを望んでいます。",
+   "target": [
+    "explain",
+    "problem"
+   ],
+   "id": 46,
+   "rating": 1000,
+   "next": [
+    41,
+    42,
+    43,
+    44,
+    45,
+    47,
+    48,
+    49,
+    50
+   ]
+  },
+  {
+   "sentence": "We need to explain a problem.",
+   "ja": "私たちは問題を説明する必要があります。",
+   "target": [
+    "explain",
+    "problem"
+   ],
+   "id": 47,
+   "rating": 1000,
+   "next": [
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    48,
+    49,
+    50
+   ]
+  },
+  {
+   "sentence": "Can you explain a problem?",
+   "ja": "あなたは問題を説明することができますか？",
+   "target": [
+    "explain",
+    "problem"
+   ],
+   "id": 48,
+   "rating": 1000,
+   "next": [
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    49,
+    50
+   ]
+  },
+  {
+   "sentence": "They will explain a problem tomorrow.",
+   "ja": "彼らは明日問題を説明する予定です。",
+   "target": [
+    "explain",
+    "problem"
+   ],
+   "id": 49,
+   "rating": 1000,
+   "next": [
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    50
+   ]
+  },
+  {
+   "sentence": "It is important to explain a problem.",
+   "ja": "問題を説明することは重要です。",
+   "target": [
+    "explain",
+    "problem"
+   ],
+   "id": 50,
+   "rating": 1000,
+   "next": [
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49
+   ]
+  },
+  {
+   "sentence": "I want to create a plan.",
+   "ja": "私は計画を作ることを望んでいます。",
+   "target": [
+    "create",
+    "plan"
+   ],
+   "id": 51,
+   "rating": 1000,
+   "next": [
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60
+   ]
+  },
+  {
+   "sentence": "We need to create a plan.",
+   "ja": "私たちは計画を作る必要があります。",
+   "target": [
+    "create",
+    "plan"
+   ],
+   "id": 52,
+   "rating": 1000,
+   "next": [
+    51,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60
+   ]
+  },
+  {
+   "sentence": "Can you create a plan?",
+   "ja": "あなたは計画を作ることができますか？",
+   "target": [
+    "create",
+    "plan"
+   ],
+   "id": 53,
+   "rating": 1000,
+   "next": [
+    51,
+    52,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60
+   ]
+  },
+  {
+   "sentence": "They will create a plan tomorrow.",
+   "ja": "彼らは明日計画を作る予定です。",
+   "target": [
+    "create",
+    "plan"
+   ],
+   "id": 54,
+   "rating": 1000,
+   "next": [
+    51,
+    52,
+    53,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60
+   ]
+  },
+  {
+   "sentence": "It is important to create a plan.",
+   "ja": "計画を作ることは重要です。",
+   "target": [
+    "create",
+    "plan"
+   ],
+   "id": 55,
+   "rating": 1000,
+   "next": [
+    51,
+    52,
+    53,
+    54,
+    56,
+    57,
+    58,
+    59,
+    60
+   ]
+  },
+  {
+   "sentence": "I want to share a plan.",
+   "ja": "私は計画を共有することを望んでいます。",
+   "target": [
+    "share",
+    "plan"
+   ],
+   "id": 56,
+   "rating": 1000,
+   "next": [
+    51,
+    52,
+    53,
+    54,
+    55,
+    57,
+    58,
+    59,
+    60
+   ]
+  },
+  {
+   "sentence": "We need to share a plan.",
+   "ja": "私たちは計画を共有する必要があります。",
+   "target": [
+    "share",
+    "plan"
+   ],
+   "id": 57,
+   "rating": 1000,
+   "next": [
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    58,
+    59,
+    60
+   ]
+  },
+  {
+   "sentence": "Can you share a plan?",
+   "ja": "あなたは計画を共有することができますか？",
+   "target": [
+    "share",
+    "plan"
+   ],
+   "id": 58,
+   "rating": 1000,
+   "next": [
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    59,
+    60
+   ]
+  },
+  {
+   "sentence": "They will share a plan tomorrow.",
+   "ja": "彼らは明日計画を共有する予定です。",
+   "target": [
+    "share",
+    "plan"
+   ],
+   "id": 59,
+   "rating": 1000,
+   "next": [
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    60
+   ]
+  },
+  {
+   "sentence": "It is important to share a plan.",
+   "ja": "計画を共有することは重要です。",
+   "target": [
+    "share",
+    "plan"
+   ],
+   "id": 60,
+   "rating": 1000,
+   "next": [
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59
+   ]
+  },
+  {
+   "sentence": "I want to protect the environment.",
+   "ja": "私は環境を守ることを望んでいます。",
+   "target": [
+    "protect",
+    "environment"
+   ],
+   "id": 61,
+   "rating": 1000,
+   "next": [
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70
+   ]
+  },
+  {
+   "sentence": "We need to protect the environment.",
+   "ja": "私たちは環境を守る必要があります。",
+   "target": [
+    "protect",
+    "environment"
+   ],
+   "id": 62,
+   "rating": 1000,
+   "next": [
+    61,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70
+   ]
+  },
+  {
+   "sentence": "Can you protect the environment?",
+   "ja": "あなたは環境を守ることができますか？",
+   "target": [
+    "protect",
+    "environment"
+   ],
+   "id": 63,
+   "rating": 1000,
+   "next": [
+    61,
+    62,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70
+   ]
+  },
+  {
+   "sentence": "They will protect the environment tomorrow.",
+   "ja": "彼らは明日環境を守る予定です。",
+   "target": [
+    "protect",
+    "environment"
+   ],
+   "id": 64,
+   "rating": 1000,
+   "next": [
+    61,
+    62,
+    63,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70
+   ]
+  },
+  {
+   "sentence": "It is important to protect the environment.",
+   "ja": "環境を守ることは重要です。",
+   "target": [
+    "protect",
+    "environment"
+   ],
+   "id": 65,
+   "rating": 1000,
+   "next": [
+    61,
+    62,
+    63,
+    64,
+    66,
+    67,
+    68,
+    69,
+    70
+   ]
+  },
+  {
+   "sentence": "I want to study the environment.",
+   "ja": "私は環境を研究することを望んでいます。",
+   "target": [
+    "study",
+    "environment"
+   ],
+   "id": 66,
+   "rating": 1000,
+   "next": [
+    61,
+    62,
+    63,
+    64,
+    65,
+    67,
+    68,
+    69,
+    70
+   ]
+  },
+  {
+   "sentence": "We need to study the environment.",
+   "ja": "私たちは環境を研究する必要があります。",
+   "target": [
+    "study",
+    "environment"
+   ],
+   "id": 67,
+   "rating": 1000,
+   "next": [
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    68,
+    69,
+    70
+   ]
+  },
+  {
+   "sentence": "Can you study the environment?",
+   "ja": "あなたは環境を研究することができますか？",
+   "target": [
+    "study",
+    "environment"
+   ],
+   "id": 68,
+   "rating": 1000,
+   "next": [
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    69,
+    70
+   ]
+  },
+  {
+   "sentence": "They will study the environment tomorrow.",
+   "ja": "彼らは明日環境を研究する予定です。",
+   "target": [
+    "study",
+    "environment"
+   ],
+   "id": 69,
+   "rating": 1000,
+   "next": [
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    70
+   ]
+  },
+  {
+   "sentence": "It is important to study the environment.",
+   "ja": "環境を研究することは重要です。",
+   "target": [
+    "study",
+    "environment"
+   ],
+   "id": 70,
+   "rating": 1000,
+   "next": [
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69
+   ]
+  },
+  {
+   "sentence": "I want to reduce costs.",
+   "ja": "私は費用を減らすことを望んでいます。",
+   "target": [
+    "reduce",
+    "costs"
+   ],
+   "id": 71,
+   "rating": 1000,
+   "next": [
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80
+   ]
+  },
+  {
+   "sentence": "We need to reduce costs.",
+   "ja": "私たちは費用を減らす必要があります。",
+   "target": [
+    "reduce",
+    "costs"
+   ],
+   "id": 72,
+   "rating": 1000,
+   "next": [
+    71,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80
+   ]
+  },
+  {
+   "sentence": "Can you reduce costs?",
+   "ja": "あなたは費用を減らすことができますか？",
+   "target": [
+    "reduce",
+    "costs"
+   ],
+   "id": 73,
+   "rating": 1000,
+   "next": [
+    71,
+    72,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80
+   ]
+  },
+  {
+   "sentence": "They will reduce costs tomorrow.",
+   "ja": "彼らは明日費用を減らす予定です。",
+   "target": [
+    "reduce",
+    "costs"
+   ],
+   "id": 74,
+   "rating": 1000,
+   "next": [
+    71,
+    72,
+    73,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80
+   ]
+  },
+  {
+   "sentence": "It is important to reduce costs.",
+   "ja": "費用を減らすことは重要です。",
+   "target": [
+    "reduce",
+    "costs"
+   ],
+   "id": 75,
+   "rating": 1000,
+   "next": [
+    71,
+    72,
+    73,
+    74,
+    76,
+    77,
+    78,
+    79,
+    80
+   ]
+  },
+  {
+   "sentence": "I want to calculate costs.",
+   "ja": "私は費用を計算することを望んでいます。",
+   "target": [
+    "calculate",
+    "costs"
+   ],
+   "id": 76,
+   "rating": 1000,
+   "next": [
+    71,
+    72,
+    73,
+    74,
+    75,
+    77,
+    78,
+    79,
+    80
+   ]
+  },
+  {
+   "sentence": "We need to calculate costs.",
+   "ja": "私たちは費用を計算する必要があります。",
+   "target": [
+    "calculate",
+    "costs"
+   ],
+   "id": 77,
+   "rating": 1000,
+   "next": [
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    78,
+    79,
+    80
+   ]
+  },
+  {
+   "sentence": "Can you calculate costs?",
+   "ja": "あなたは費用を計算することができますか？",
+   "target": [
+    "calculate",
+    "costs"
+   ],
+   "id": 78,
+   "rating": 1000,
+   "next": [
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    79,
+    80
+   ]
+  },
+  {
+   "sentence": "They will calculate costs tomorrow.",
+   "ja": "彼らは明日費用を計算する予定です。",
+   "target": [
+    "calculate",
+    "costs"
+   ],
+   "id": 79,
+   "rating": 1000,
+   "next": [
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    80
+   ]
+  },
+  {
+   "sentence": "It is important to calculate costs.",
+   "ja": "費用を計算することは重要です。",
+   "target": [
+    "calculate",
+    "costs"
+   ],
+   "id": 80,
+   "rating": 1000,
+   "next": [
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79
+   ]
+  },
+  {
+   "sentence": "I want to support students.",
+   "ja": "私は生徒を支援することを望んでいます。",
+   "target": [
+    "support",
+    "students"
+   ],
+   "id": 81,
+   "rating": 1000,
+   "next": [
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90
+   ]
+  },
+  {
+   "sentence": "We need to support students.",
+   "ja": "私たちは生徒を支援する必要があります。",
+   "target": [
+    "support",
+    "students"
+   ],
+   "id": 82,
+   "rating": 1000,
+   "next": [
+    81,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90
+   ]
+  },
+  {
+   "sentence": "Can you support students?",
+   "ja": "あなたは生徒を支援することができますか？",
+   "target": [
+    "support",
+    "students"
+   ],
+   "id": 83,
+   "rating": 1000,
+   "next": [
+    81,
+    82,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90
+   ]
+  },
+  {
+   "sentence": "They will support students tomorrow.",
+   "ja": "彼らは明日生徒を支援する予定です。",
+   "target": [
+    "support",
+    "students"
+   ],
+   "id": 84,
+   "rating": 1000,
+   "next": [
+    81,
+    82,
+    83,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90
+   ]
+  },
+  {
+   "sentence": "It is important to support students.",
+   "ja": "生徒を支援することは重要です。",
+   "target": [
+    "support",
+    "students"
+   ],
+   "id": 85,
+   "rating": 1000,
+   "next": [
+    81,
+    82,
+    83,
+    84,
+    86,
+    87,
+    88,
+    89,
+    90
+   ]
+  },
+  {
+   "sentence": "I want to teach students.",
+   "ja": "私は生徒を教えることを望んでいます。",
+   "target": [
+    "teach",
+    "students"
+   ],
+   "id": 86,
+   "rating": 1000,
+   "next": [
+    81,
+    82,
+    83,
+    84,
+    85,
+    87,
+    88,
+    89,
+    90
+   ]
+  },
+  {
+   "sentence": "We need to teach students.",
+   "ja": "私たちは生徒を教える必要があります。",
+   "target": [
+    "teach",
+    "students"
+   ],
+   "id": 87,
+   "rating": 1000,
+   "next": [
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    88,
+    89,
+    90
+   ]
+  },
+  {
+   "sentence": "Can you teach students?",
+   "ja": "あなたは生徒を教えることができますか？",
+   "target": [
+    "teach",
+    "students"
+   ],
+   "id": 88,
+   "rating": 1000,
+   "next": [
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    89,
+    90
+   ]
+  },
+  {
+   "sentence": "They will teach students tomorrow.",
+   "ja": "彼らは明日生徒を教える予定です。",
+   "target": [
+    "teach",
+    "students"
+   ],
+   "id": 89,
+   "rating": 1000,
+   "next": [
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    90
+   ]
+  },
+  {
+   "sentence": "It is important to teach students.",
+   "ja": "生徒を教えることは重要です。",
+   "target": [
+    "teach",
+    "students"
+   ],
+   "id": 90,
+   "rating": 1000,
+   "next": [
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89
+   ]
+  },
+  {
+   "sentence": "I want to review the lesson.",
+   "ja": "私は授業内容を復習することを望んでいます。",
+   "target": [
+    "review",
+    "lesson"
+   ],
+   "id": 91,
+   "rating": 1000,
+   "next": [
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100
+   ]
+  },
+  {
+   "sentence": "We need to review the lesson.",
+   "ja": "私たちは授業内容を復習する必要があります。",
+   "target": [
+    "review",
+    "lesson"
+   ],
+   "id": 92,
+   "rating": 1000,
+   "next": [
+    91,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100
+   ]
+  },
+  {
+   "sentence": "Can you review the lesson?",
+   "ja": "あなたは授業内容を復習することができますか？",
+   "target": [
+    "review",
+    "lesson"
+   ],
+   "id": 93,
+   "rating": 1000,
+   "next": [
+    91,
+    92,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100
+   ]
+  },
+  {
+   "sentence": "They will review the lesson tomorrow.",
+   "ja": "彼らは明日授業内容を復習する予定です。",
+   "target": [
+    "review",
+    "lesson"
+   ],
+   "id": 94,
+   "rating": 1000,
+   "next": [
+    91,
+    92,
+    93,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100
+   ]
+  },
+  {
+   "sentence": "It is important to review the lesson.",
+   "ja": "授業内容を復習することは重要です。",
+   "target": [
+    "review",
+    "lesson"
+   ],
+   "id": 95,
+   "rating": 1000,
+   "next": [
+    91,
+    92,
+    93,
+    94,
+    96,
+    97,
+    98,
+    99,
+    100
+   ]
+  },
+  {
+   "sentence": "I want to remember the lesson.",
+   "ja": "私は授業内容を覚えておくことを望んでいます。",
+   "target": [
+    "remember",
+    "lesson"
+   ],
+   "id": 96,
+   "rating": 1000,
+   "next": [
+    91,
+    92,
+    93,
+    94,
+    95,
+    97,
+    98,
+    99,
+    100
+   ]
+  },
+  {
+   "sentence": "We need to remember the lesson.",
+   "ja": "私たちは授業内容を覚えておく必要があります。",
+   "target": [
+    "remember",
+    "lesson"
+   ],
+   "id": 97,
+   "rating": 1000,
+   "next": [
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    98,
+    99,
+    100
+   ]
+  },
+  {
+   "sentence": "Can you remember the lesson?",
+   "ja": "あなたは授業内容を覚えておくことができますか？",
+   "target": [
+    "remember",
+    "lesson"
+   ],
+   "id": 98,
+   "rating": 1000,
+   "next": [
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    99,
+    100
+   ]
+  },
+  {
+   "sentence": "They will remember the lesson tomorrow.",
+   "ja": "彼らは明日授業内容を覚えておく予定です。",
+   "target": [
+    "remember",
+    "lesson"
+   ],
+   "id": 99,
+   "rating": 1000,
+   "next": [
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    100
+   ]
+  },
+  {
+   "sentence": "It is important to remember the lesson.",
+   "ja": "授業内容を覚えておくことは重要です。",
+   "target": [
+    "remember",
+    "lesson"
+   ],
+   "id": 100,
+   "rating": 1000,
+   "next": [
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99
+   ]
+  }
+ ]
+}
